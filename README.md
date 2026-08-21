@@ -19,7 +19,7 @@ A simple desktop calculator application developed using **Python and Tkinter**.
 
 ## 📸 Project Screenshot
 
-![Calculator Screenshot](calculator-screenshot.png)
+![Calculator Screenshot](calculator_screenshot.png)
 
 ## ▶️ How to Run
 
